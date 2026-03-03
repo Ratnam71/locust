@@ -422,7 +422,7 @@ yaml = ["PyYAML"]
 
 [[package]]
 name = "cryptography"
-version = "43.0.3"
+version = "46.0.5"
 description = "cryptography is a package which provides cryptographic recipes and primitives to Python developers."
 optional = false
 python-versions = ">=3.7"
