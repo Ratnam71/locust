@@ -124,7 +124,7 @@ requests = [
     { version = ">=2.32.2", python = ">3.11" },
 ]
 msgpack = ">=1.0.0"
-pyzmq = ">=25.0.0"
+pyzmq = ">=26.0.0"
 geventhttpclient = ">=2.3.1"
 ConfigArgParse = ">=1.5.5"
 tomli = { version = ">=1.1.0", python = "<3.11" }
